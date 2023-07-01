@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b39dea0.css",
-    "main.js": "/static/js/main.5dc5b55a.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "index.html": "/index.html",
-    "main.2b39dea0.css.map": "/static/css/main.2b39dea0.css.map",
-    "main.5dc5b55a.js.map": "/static/js/main.5dc5b55a.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/Remonone_Streaming_Platform/static/css/main.2b39dea0.css",
+    "main.js": "/Remonone_Streaming_Platform/static/js/main.ca5c1a23.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Remonone_Streaming_Platform/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Remonone_Streaming_Platform/index.html",
+    "main.2b39dea0.css.map": "/Remonone_Streaming_Platform/static/css/main.2b39dea0.css.map",
+    "main.ca5c1a23.js.map": "/Remonone_Streaming_Platform/static/js/main.ca5c1a23.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Remonone_Streaming_Platform/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b39dea0.css",
-    "static/js/main.5dc5b55a.js"
+    "static/js/main.ca5c1a23.js"
   ]
 }
